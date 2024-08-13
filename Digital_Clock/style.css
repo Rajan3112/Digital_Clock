@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: aqua;
+}
+
+#dabba {
+  border: 2px solid rgb(25, 26, 25);
+  height: 300px;
+  width: 300px;
+
+  padding: 30px;
+  font-size: 3.1rem;
+  font-weight: bold;
+  background-color: rgb(118, 97, 137);
+  border-radius: 2rem;
+}
+h2 {
+  margin-left: 45%;
+}
